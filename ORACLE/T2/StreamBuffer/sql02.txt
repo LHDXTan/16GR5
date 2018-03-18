@@ -1,0 +1,2 @@
+select * from dept where deptno > 20 and job='ANALYST'
+/
